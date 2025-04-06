@@ -1,11 +1,24 @@
 
 <h1 align="center">StavaRaChI <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=inter&pause=1000&color=FFFFFF&background=FF2BC800&center=true&vCenter=true&random=true&width=435&lines=A+Backend+developer+from+Russia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=inter&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=535&lines=A+Backend+developer+from+Russia" alt="Typing SVG" />
 <p>
 
 <p align="center">
-<img height="55" src="https://skillicons.dev/icons?i=java,python,spring,flask,idea,pycharm,postman" />
+<img height="60" src="https://skillicons.dev/icons?i=java" />
+<img width="15"/>
+<img height="60" src="https://skillicons.dev/icons?i=python" />
+<img width="15"/>
+<img height="60" src="https://skillicons.dev/icons?i=spring" />
+<img width="15"/>
+<img height="60" src="https://skillicons.dev/icons?i=fastapi" />
+<img width="15"/>
+<img height="60" src="https://skillicons.dev/icons?i=idea" />
+<img width="15"/>
+<img height="60" src="https://skillicons.dev/icons?i=pycharm" />
+<img width="15"/>
+<img height="60" src="https://skillicons.dev/icons?i=postman" />
+<img width="15"/>
 </p>
 
 <h2 align="center">📊 GitHub Stats:</h2>
