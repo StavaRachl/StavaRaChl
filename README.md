@@ -29,3 +29,8 @@
 <p>
 
 <p align="center"> <img src="https://github.com/StavaRaChl/StavaRaChl/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"> </p>
+
+<h2 align="center">Discord Profile:</h2>
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/728908388003741736">
+</p>
