@@ -4,16 +4,12 @@
 <p align="center">
 <img height="60" src="https://skillicons.dev/icons?i=java" />
 <img width="15"/>
-<img height="60" src="https://skillicons.dev/icons?i=kotlin" />
-<img width="15"/>
 <img height="60" src="https://skillicons.dev/icons?i=python" />
 <img width="15"/>
 <img height="60" src="https://skillicons.dev/icons?i=spring" />
 <img width="15"/>
 <img height="60" src="https://skillicons.dev/icons?i=idea" />
 <img width="15"/>
-<img height="60" src="https://skillicons.dev/icons?i=vscode" />
-<img width="15"/>  
 </p>
 
 <p align="center">
