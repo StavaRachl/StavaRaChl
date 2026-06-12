@@ -7,7 +7,11 @@
   <img src="https://trophy.ryglcloud.net/?username=StavaRaChl&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="StavaRaChI's GitHub Trophies" />
 </p>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StavaRaChl&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  <img
+  height="180em"
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StavaRaChl&langs_count=8&layout=compact&theme=dracula&border_radius=10&hide=html,css"
+  alt="Top Languages"
+/>
   <img src="https://streak-stats.demolab.com?user=StavaRaChl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180em" alt="streak graph"  />
 </div>
 <p align="center">
